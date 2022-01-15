@@ -1,0 +1,62 @@
+html {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.welcome-pic {
+    background-image: url(IMG_8102.JPG);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.about-pic {
+    background-image: url(IMG_8094.JPG);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.holy-shrine-pic {
+    background-image: url(IMG_8101.JPG);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.ferdowsi-pic {
+    background-image: url(IMG_8096.JPG);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.airport-pic {
+    background-image: url(IMG_8097.JPG);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.welcome, .about, .holy-shrine, .ferdowsi, .airport {
+background: rgb(196,196,196);
+background: linear-gradient(90deg, rgba(196,196,196,1) 0%, rgba(100,160,205,1) 50%, rgba(156,128,228,1) 100%);
+    padding: 2px;
+    margin: 12px auto;
+    border-radius: 5px;
+}
